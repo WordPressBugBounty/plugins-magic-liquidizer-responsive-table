@@ -1,0 +1,1 @@
+# plugins-magic-liquidizer-responsive-table
